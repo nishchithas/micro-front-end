@@ -27,6 +27,6 @@ button:active {
 }
 
 #container {
-    border: 2px rgb(0, 139, 39) dashed;
+    border: 2px darkred dashed;
     padding: 20px;
 }
